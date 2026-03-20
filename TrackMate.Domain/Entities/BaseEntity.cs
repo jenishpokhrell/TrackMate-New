@@ -12,5 +12,19 @@ namespace TrackMate.Domain.Entities
         public DateTime CreatedAt { get; protected set; } = DateTime.UtcNow;
         public DateTime UpdatedAt { get; protected set; } = DateTime.UtcNow;
         public bool IsDeleted { get; protected set; } = false;
+
+        private readonly List<Events.BaseDomainEvent> _domainEvents = new();
+        public IReadOnlyCollection<Events.BaseDomainEvent> DomainEvents => _domainEvents.AsReadOnly();
+
+        protected void AddDomainEvent(Events.BaseDomainEvent domainEvent) => 
+            _domainEvents.Add(domainEvent);
+
+        public void ClearDomainEvent(Events.BaseDomainEvent) => _domainEvents.Clear();
+
+        public void SoftDelete()
+        {
+            IsDeleted = true;
+            UpdatedAt = DateTime.UtcNow;
+        }
     }
 }

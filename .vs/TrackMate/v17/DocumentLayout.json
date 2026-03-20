@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "TrackMate.Domain\\Entities\\BaseEntity.cs",
               "ToolTip": "C:\\Users\\jenish.p\\source\\repos\\TrackMate\\TrackMate.Domain\\Entities\\BaseEntity.cs",
               "RelativeToolTip": "TrackMate.Domain\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T10:57:18.176Z",
               "EditorCaption": ""
@@ -107,21 +107,19 @@
               "RelativeToolTip": "TrackMate.Domain\\Events\\RecurringExpenseDueEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T10:57:17.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T10:57:17.91Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TrackMate.Domain",
+              "Title": "TrackMate.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\jenish.p\\source\\repos\\TrackMate\\TrackMate.Domain\\TrackMate.Domain.csproj",
               "RelativeDocumentMoniker": "TrackMate.Domain\\TrackMate.Domain.csproj",
               "ToolTip": "C:\\Users\\jenish.p\\source\\repos\\TrackMate\\TrackMate.Domain\\TrackMate.Domain.csproj",
               "RelativeToolTip": "TrackMate.Domain\\TrackMate.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-20T10:57:17.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T10:57:17.706Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "TrackMate.Domain\\Events\\BaseDomainEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T10:57:17.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T10:57:17.027Z"
             },
             {
               "$type": "Document",
@@ -146,8 +143,7 @@
               "RelativeToolTip": "TrackMate.Domain\\Events\\ExpenseCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T10:57:16.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T10:57:16.943Z"
             },
             {
               "$type": "Document",
@@ -159,8 +155,7 @@
               "RelativeToolTip": "TrackMate.Domain\\Events\\BudgetExceededEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T10:57:14.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T10:57:14.36Z"
             },
             {
               "$type": "Document",
@@ -172,8 +167,7 @@
               "RelativeToolTip": "TrackMate.Domain\\ValueObjects\\RegionInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T06:20:49.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T06:20:49.605Z"
             },
             {
               "$type": "Document",
