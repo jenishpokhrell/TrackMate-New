@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrackMate.Domain.Events
 {
-    public class RecurringExpenseDueEvent
+    public class RecurringExpenseDueEvent : BaseDomainEvent
     {
         public Guid RecurrenceExpenseId { get; }
         public Guid AccountId { get; }

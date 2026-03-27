@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrackMate.Domain.Enums
 {
-    public enum NumberRole
+    public enum MemberRole
     {
         Owner = 1,
         Admin = 2,

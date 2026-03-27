@@ -19,8 +19,8 @@ namespace TrackMate.Domain.Entities
         protected void AddDomainEvent(Events.BaseDomainEvent domainEvent) => 
             _domainEvents.Add(domainEvent);
 
-        public void ClearDomainEvent(Events.BaseDomainEvent) => _domainEvents.Clear();
-
+        public void ClearDomainEvent() => _domainEvents.Clear();
+            
         public void SoftDelete()
         {
             IsDeleted = true;

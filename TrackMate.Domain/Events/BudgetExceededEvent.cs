@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TrackMate.Domain.Events
 {
-    public class BudgetExceededEvent
+    public class BudgetExceededEvent : BaseDomainEvent
     {
         public Guid BudgetId { get; }
         public Guid AccountId { get; }
